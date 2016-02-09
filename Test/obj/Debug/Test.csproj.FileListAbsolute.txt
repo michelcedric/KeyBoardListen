@@ -1,0 +1,11 @@
+c:\users\michelce\documents\visual studio 2015\Projects\KeyboardListen\Test\bin\Debug\Test.exe.config
+c:\users\michelce\documents\visual studio 2015\Projects\KeyboardListen\Test\bin\Debug\Test.exe
+c:\users\michelce\documents\visual studio 2015\Projects\KeyboardListen\Test\bin\Debug\Test.pdb
+c:\users\michelce\documents\visual studio 2015\Projects\KeyboardListen\Test\bin\Debug\KeyboardListen.dll
+c:\users\michelce\documents\visual studio 2015\Projects\KeyboardListen\Test\bin\Debug\KeyboardListen.pdb
+c:\users\michelce\documents\visual studio 2015\Projects\KeyboardListen\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\michelce\documents\visual studio 2015\Projects\KeyboardListen\Test\obj\Debug\Test.Form1.resources
+c:\users\michelce\documents\visual studio 2015\Projects\KeyboardListen\Test\obj\Debug\Test.Properties.Resources.resources
+c:\users\michelce\documents\visual studio 2015\Projects\KeyboardListen\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+c:\users\michelce\documents\visual studio 2015\Projects\KeyboardListen\Test\obj\Debug\Test.exe
+c:\users\michelce\documents\visual studio 2015\Projects\KeyboardListen\Test\obj\Debug\Test.pdb
